@@ -1,0 +1,7 @@
+asyncmy~=0.2.9
+fastapi~=0.111.0
+fastapi-users~=13.0.0
+loguru~=0.7.2
+sqlalchemy~=2.0.31
+pydantic_settings~=2.3.3
+
