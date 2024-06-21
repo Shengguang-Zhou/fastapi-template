@@ -1,6 +1,6 @@
 # Installation
 
-```python 
+``` 
 pip install -r requirements.txt
 ```
 
@@ -8,9 +8,10 @@ pip install -r requirements.txt
 1. Create a config.yaml file in safety directory, with all corresponding parameters.
 
 # TODO
-[] Auth
-[] OAuth
-[] Payment
-[] Subscription
-[] Invitation
+- [ ] Auth
+- [ ] OAuth
+- [ ] Payment
+- [ ] Subscription
+- [ ] Invitation
+
 
